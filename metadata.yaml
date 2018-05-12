@@ -1,0 +1,31 @@
+_repo: Pottery-of-the-ancient-Pueblos.--1886-N-04---1882-1883--pages-257-360--_41998
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holmes, William Henry
+    aliases:
+    - Holmes, W. H. (William Henry)
+    - Holmes, William H. (William Henry)
+    birthdate: 1846
+    deathdate: 1933
+    gutenberg_agent_id: '7330'
+    url: http://www.gutenberg.org/2009/agents/7330
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Holmes
+description: ''
+gutenberg_issued: '2013-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41998'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pueblo Indians -- Antiquities'
+- !lcsh 'Indian pottery -- North America'
+- !lcc 'E011'
+title: Pottery of the ancient Pueblos. (1886 N 04 / 1882-1883 (pages 257-360))
+url: http://www.gutenberg.org/ebooks/41998
