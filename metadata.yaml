@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7330
     wikipedia: http://en.wikipedia.org/wiki/William_Henry_Holmes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41998#Pottery-of-the-ancient-Pueblos.--1886-N-04---1882-1883--pages-257-360--
 gutenberg_issued: '2013-02-04'
 gutenberg_type: Text
 identifiers:
